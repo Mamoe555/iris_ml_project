@@ -1,0 +1,14 @@
+# Ignore Word temporary and tmp files
+~$*
+*.tmp
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
